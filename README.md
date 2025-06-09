@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi everyone, I'm Bartek 👋
 
-<!--
-**BartekOrchowski/BartekOrchowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electromechatronics student, working as a test engineer at Kostal Automotive. 
+passionate about technology and innovation, especially **Embedded Systems**. 
 
-Here are some ideas to get you started:
+---
+## My current projects:
+Currently, I'm working on a few exciting projects:
+- 🤖 **Waiter robot** – I'm responsible for programming the **ESP32 that controls the drive system**
+- 🧊 **Self-balancing cube** – project in its early development stage
+- ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on STM32F4
+---
+### 🔧 Technologies & Tools
+- C 
+- Python
+- STM32 (HAL, CMSIS) / ATmega / ESP32
+- Basics of FreeRTOS
+- KiCad
+- Git & GitHub
+---
+### I'm currently learning:
+- 🐧 **Linux**
+- 🐍 **Python**
+- 🚗 **Automotive embedded systems** (CAN, LIN, FlexRay)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- 📧 Email: bartek.orchowski@gmail.com
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=tokyonight" />
+</p>
