@@ -1,18 +1,17 @@
 ## Hi everyone, I'm Bartek 👋
 
-I'm an Electromechatronics student, working as a test engineer at Kostal Automotive. 
-passionate about technology and innovation, especially **Embedded Systems**. 
+I'm an Electromechatronics student, working as a test engineer at **Kostal Automotive**. 
+I'm passionate about technology and innovation, especially in **Embedded Systems**. 
 
 ---
 ## My current projects:
 Currently, I'm working on a few exciting projects:
 - 🤖 **Waiter robot** – I'm responsible for programming the **ESP32 that controls the drive system**
 - 🧊 **Self-balancing cube** – project in its early development stage
-- ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on STM32F4
+- ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on **STM32F4**
 ---
 ### 🔧 Technologies & Tools
 - C 
-- Python
 - STM32 (HAL, CMSIS) / ATmega / ESP32
 - Basics of FreeRTOS
 - KiCad
@@ -29,5 +28,5 @@ Currently, I'm working on a few exciting projects:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BartekOrchowski&show_icons=true&theme=tokyonight" />
 </p>
