@@ -1,7 +1,6 @@
 ## Hi everyone, I'm Bartek 👋
 
-I'm an Electromechatronics student, working as a test engineer at **Kostal Automotive**. 
-I'm passionate about technology and innovation, especially in **Embedded Systems**. 
+I'm an Electromechatronics student, passionate about technology and innovation, especially in **Embedded Systems**. 
 ---
 
 ## My current projects:
