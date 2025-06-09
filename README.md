@@ -26,7 +26,3 @@ Currently, I'm working on a few exciting projects:
 ### 📫 Contact
 - 📧 Email: bartek.orchowski@gmail.com
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BartekOrchowski&show_icons=true&theme=tokyonight" />
-</p>
