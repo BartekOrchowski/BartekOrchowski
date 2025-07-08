@@ -9,7 +9,7 @@ I'm an Electromechatronics student, passionate about technology and innovation, 
 - ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on **STM32F4**
 ---
 
-## Past (or rather unfinished 😅 projects:
+## Past (or rather unfinished 😅) projects:
 - 🤖 **Waiter robot** – I was responsible for programming the **ESP32 that controls the drive system**
 - 🤖 **MiniSumo robot** - based on **ATMega328P**
 ---
