@@ -1,12 +1,17 @@
 ## Hi everyone, I'm Bartek 👋
 
-I'm an Electromechatronics student, passionate about technology and innovation, especially in **Embedded Systems**. 
+I'm an Electromechatronics student, passionate about technology and innovation, especially low level programming in **Embedded Systems**. 
 ---
 
 ## My current projects:
-- 🤖 **Waiter robot** – I'm responsible for programming the **ESP32 that controls the drive system**
-- 🧊 **Self-balancing cube** – project in its early development stage
+- 🎓 **Bachelor Thesis** - Sliding Mode Control od a DC Motor based on **STM32G4**
+- 🧊 **Self-balancing cube** – project in its early development stage, based on **ESP32**
 - ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on **STM32F4**
+---
+
+## Past (or rather unfinished 😅 projects:
+- 🤖 **Waiter robot** – I was responsible for programming the **ESP32 that controls the drive system**
+- 🤖 **MiniSumo robot** - based on **ATMega328P**
 ---
 
 ### 🔧 Technologies & Tools: 
@@ -18,9 +23,10 @@ I'm an Electromechatronics student, passionate about technology and innovation, 
 ---
 
 ### I'm currently learning:
-- 🐧 **Linux**
+- 🕒 **FreeRTOS**
 - 🐍 **Python**
 - 🚗 **Automotive embedded systems** (CAN, LIN, FlexRay)
+- 🐧 **Linux**
 ---
 
 ### 📫 Contact
