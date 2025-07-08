@@ -4,7 +4,7 @@ I'm an Electromechatronics student, passionate about technology and innovation, 
 ---
 
 ## My current projects:
-- 🎓 **Bachelor Thesis** - Sliding Mode Control od a DC Motor based on **STM32G4**
+- 🎓 **Bachelor Thesis** - Sliding Mode Control of a DC Motor based on **STM32G4**
 - 🧊 **Self-balancing cube** – project in its early development stage, based on **ESP32**
 - ⚡ **Oscilloscope + function generator** – a 2-in-1 measuring device based on **STM32F4**
 ---
