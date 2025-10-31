@@ -8,7 +8,7 @@ I'm currently focusing on expanding my skills towards **Systems Engineering** an
 - 🎓 **Bachelor Thesis** - Sliding Mode Control of a DC Motor based on **STM32F7** (ARM Cortex M7)
 - 🧊 **Self-balancing cube** – early development stage, based on **ESP32**
 - ⚡ **Oscilloscope** – measuring device based on **STM32G4** (ARM Cortex M4)
-- 🛠 **System modeling experiments** – practicing **SysML/UML** for embedded and safety-critical systems
+- 🛠 **System modeling experiments** – practicing **SysML/UML** for embedded 
 
 ---
 
@@ -33,7 +33,6 @@ I'm currently focusing on expanding my skills towards **Systems Engineering** an
 - 🕒 **FreeRTOS**
 - 🚗 **Automotive embedded systems** (CAN, LIN, FlexRay)
 - 🐧 **Linux**
-- 📊 **Reliability & Safety analysis** (FMEA, FMECA, FTA)
 - 🏗 **System-level architecture and design (SysML)**
 
 ---
