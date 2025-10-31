@@ -24,8 +24,8 @@ I'm currently focusing on expanding my skills towards **Systems Engineering** an
 - Basics of FreeRTOS
 - KiCad
 - Git & GitHub
-- **SysML / UML** for system modeling
-- **Matlab / Simulink** for system simulations
+- SysML / UML for system modeling
+- Matlab / Simulink for system simulations
 
 ---
 
