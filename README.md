@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Bartek 👋
 
-I'm an Electromechatronics student, passionate about technology and innovation, especially low-level programming in **Embedded Systems**, system modeling, and reliability analysis. //
+I'm an Electromechatronics student, passionate about technology and innovation, especially low-level programming in **Embedded Systems**.
 I'm currently focusing on expanding my skills towards **Systems Engineering** and **safety-critical systems**, integrating hardware, software, and system-level design.
 ---
 
