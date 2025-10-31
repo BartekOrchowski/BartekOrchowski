@@ -12,7 +12,7 @@ I'm an Electromechatronics student, passionate about technology and innovation, 
 ## Past (or rather unfinished 😅) projects:
 - 🤖 **Waiter robot** – I was responsible for programming the **ESP32 that controls the drive system**
 - 🤖 **MiniSumo robot** - based on **ATMega328P**
----s
+---
 
 ### 🔧 Technologies & Tools: 
 - C 
