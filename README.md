@@ -20,7 +20,7 @@ I'm currently focusing on expanding my skills towards **Systems Engineering** an
 
 ### 🔧 Technologies & Tools: 
 - C / C++
-- STM32 (HAL, CMSIS) / ATmega / ESP32
+- STM32 (HAL, CMSIS, Matlab/simulink) / ATmega / ESP32
 - Basics of FreeRTOS
 - KiCad
 - Git & GitHub
