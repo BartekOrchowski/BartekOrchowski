@@ -12,7 +12,7 @@ I'm currently focusing on expanding my skills towards **Systems Engineering** an
 
 ---
 
-## Past (or rather unfinished 😅) projects:
+## Past and  unfinished 😅 projects:
 - 🤖 **Waiter robot** – responsible for programming the **ESP32 controlling the drive system**
 - 🤖 **MiniSumo robot** - based on **ATMega328P**
 
