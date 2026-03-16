@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Bartek 👋
 
-I'm an Electromechatronics engineer, passionate about technology and innovation, especially low-level programming in **Embedded Systems**. Currently starting my Master's degree.
+I'm an Electromechatronics engineer, passionate about technology and innovation, especially low-level programming in Embedded Systems, electronics and electric drives. In the future I hope to work with EdgeAI embedded systems. Currently starting my Master's degree.
 ---
 
 ## My current projects:
