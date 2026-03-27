@@ -30,8 +30,8 @@ I'm an Electromechatronics engineer, passionate about technology and innovation,
 ### I'm currently learning:
 - 🕒 **FreeRTOS**
 - 🚗 **Automotive embedded systems** (CAN, LIN, FlexRay)
-- 🐍  **Python**
-- 👁️  **Vision Systems** using **OpenCV** and **C++**
+- 🐍 **Python** for **Digital Twin** course
+- 👁️ **Vision Systems** using **OpenCV** and **C++**
 
 ---
 
