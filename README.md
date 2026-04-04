@@ -19,7 +19,9 @@ I'm an Electromechatronics engineer, passionate about technology and innovation,
 
 ### 🔧 Technologies & Tools: 
 - C / C++
-- STM32 (HAL, CMSIS, Matlab/Simulink) / ATmega / ESP32
+- STM32 (HAL, CMSIS, Matlab/Simulink)
+- ATmega
+- ESP32-IDF
 - Basics of FreeRTOS
 - KiCad
 - Git & GitHub
